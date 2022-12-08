@@ -1,0 +1,70 @@
+{
+   "Filmes": [
+      {
+         "id": 1,
+         "title": "Medida Provisória",
+         "diretor": "typicode"
+      },
+
+      {
+         "id": 2,
+         "title": "Corra!",
+         "diretor": ""
+      },
+
+      {
+         "id": 3,
+         "title": "Bad Boys",
+         "diretor": ""
+      }
+   ],
+
+   "Avaliadores": [
+      {
+         "id": 1,
+         "nome": "Jonas Abreu",
+         "title": "Corra!",
+         "nota": "6,4/10"
+      },
+      {
+         "id": 2,
+         "nome": "Melina Santos",
+         "title": "Bad Boys",
+         "nota": "7/10"
+      },
+
+      {
+         "id": 3,
+         "nome": "Bruna Lins",
+         "title": "Medida Provisória",
+         "nota": "10/10"
+      }
+   ],
+
+   "Classificação": [
+      {
+         "id": 1,
+         "melhor filme": "Medida Provisória"
+      },
+
+      {
+         "id": 2,
+         "melhor fotografia": "Corra!"
+      },
+      {
+         "id": 3,
+         "melhor direção": "Avatar"
+      },
+
+      {
+         "id": 4,
+         "melhor trilha sonora": "Bad Boys"
+      },
+
+      //para o delete//
+      {
+         "id": 5,
+         "melhor atuação": " "
+      }
+   ]
+}
